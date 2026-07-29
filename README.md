@@ -131,11 +131,10 @@ const talha = {
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-> **Requires GitHub Actions**
+![Snake](https://raw.githubusercontent.com/talhacoder302/talhacoder302/output/github-contribution-grid-snake-dark.svg)
 
-![Snake animation](https://github.com/talhacoder302/talhacoder302/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 
 # 🌱 Currently Learning
