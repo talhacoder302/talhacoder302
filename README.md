@@ -116,11 +116,11 @@ const talha = {
 
 # 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=talhacoder302&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=talhacoder302&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhacoder302&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=talhacoder302&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=talhacoder302&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=talhacoder302&theme=tokyonight&hide_border=true)
 
 ---
 
