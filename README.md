@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Muhammad Talha
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=36BCF7&center=false&vCenter=true&width=700&lines=👨‍💻+I+Am+a+Problem+Solver;💡+I+Solve+Real-World+Problems;🚀+Building+Scalable+Backend+Systems;📚+Always+Learning+New+Technologies;⚡+Clean+Code,+Better+Performance;🌱+Learning+Never+Stops;🤝+Open+to+Collaboration)
-
 ### 🚀 Backend Developer | Node.js | Express.js | MongoDB | REST APIs
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=36BCF7&center=false&vCenter=true&width=700&lines=👨‍💻+I+Am+a+Problem+Solver;💡+I+Solve+Real-World+Problems;🚀+Building+Scalable+Backend+Systems;📚+Always+Learning+New+Technologies;⚡+Clean+Code,+Better+Performance;🌱+Learning+Never+Stops;🤝+Open+to+Collaboration)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=talhacoder302&style=for-the-badge&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/talhacoder302?style=for-the-badge)
