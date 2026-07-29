@@ -139,17 +139,23 @@ WhatsApp Automation
 
 # 📊 GitHub Analytics
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=talhacoder302&show_icons=true&theme=tokyonight&hide_border=true)
+<img
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=talhacoder302&show_icons=true&theme=tokyonight&hide_border=true"
+  width="100%"
+/>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=talhacoder302&layout=compact&theme=tokyonight&hide_border=true)
+<img
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=talhacoder302&layout=compact&theme=tokyonight&hide_border=true"
+  width="100%"
+/>
 
 </td>
 </tr>
