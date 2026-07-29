@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Talha
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=false&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;REST+API+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=36BCF7&center=false&vCenter=true&width=700&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I+Am+a+Problem+Solver;%F0%9F%92%A1+I+Solve+Real-World+Problems;%F0%9F%9A%80+Building+Scalable+Backend+Systems;%F0%9F%93%9A+Always+Learning+New+Technologies;%E2%9A%A1+Clean+Code%2C+Better+Performance;%F0%9F%8C%B1+Learning+Never+Stops;%F0%9F%A4%9D+Open+to+Collaboration)
 
 ### 🚀 Backend Developer | Node.js | Express.js | MongoDB | REST APIs
 
