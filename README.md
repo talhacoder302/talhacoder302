@@ -112,29 +112,13 @@ const talha = {
 
 # 📊 GitHub Stats
 
-![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=talhacoder302&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=talhacoder302&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhacoder302&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=talhacoder302&theme=tokyonight&no-frame=true)
 
 ---
 
 # 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=talhacoder302&theme=tokyo-night)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake](https://raw.githubusercontent.com/talhacoder302/talhacoder302/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -153,9 +137,9 @@ const talha = {
 
 🌍 Portfolio: https://talhacoder.com
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
+💼 LinkedIn: https://linkedin.com/in/talha-coder/
 
-📧 Email: your@email.com
+📧 Email: talha.developments@gmail.com
 
 🐙 GitHub: https://github.com/talhacoder302
 
