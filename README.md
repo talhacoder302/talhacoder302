@@ -136,7 +136,6 @@ const talha = {
 > **Requires GitHub Actions**
 
 ![Snake animation](https://github.com/talhacoder302/talhacoder302/blob/output/github-contribution-grid-snake-dark.svg)
-
 ---
 
 # 🌱 Currently Learning
