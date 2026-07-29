@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Muhammad Talha
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=36BCF7&center=false&vCenter=true&width=700&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I+Am+a+Problem+Solver;%F0%9F%92%A1+I+Solve+Real-World+Problems;%F0%9F%9A%80+Building+Scalable+Backend+Systems;%F0%9F%93%9A+Always+Learning+New+Technologies;%E2%9A%A1+Clean+Code%2C+Better+Performance;%F0%9F%8C%B1+Learning+Never+Stops;%F0%9F%A4%9D+Open+to+Collaboration)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=36BCF7&center=false&vCenter=true&width=700&lines=👨‍💻+I+Am+a+Problem+Solver;💡+I+Solve+Real-World+Problems;🚀+Building+Scalable+Backend+Systems;📚+Always+Learning+New+Technologies;⚡+Clean+Code,+Better+Performance;🌱+Learning+Never+Stops;🤝+Open+to+Collaboration)
 
 ### 🚀 Backend Developer | Node.js | Express.js | MongoDB | REST APIs
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=talhacoder302&style=for-the-badge&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/talhacoder302?style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/stars/talhacoder302?style=for-the-badge)
 
 ---
 
@@ -22,7 +23,7 @@ const talha = {
     "Express.js",
     "MongoDB",
     "REST APIs",
-    "JWT"
+    "JWT Authentication"
   ],
 
   frontend: [
@@ -37,7 +38,8 @@ const talha = {
     "AWS",
     "Redis",
     "Microservices",
-    "TypeScript"
+    "TypeScript",
+    "System Design"
   ],
 
   motto: "Build Clean APIs. Build Scalable Systems."
@@ -62,17 +64,17 @@ const talha = {
 ## Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Tools
 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Swagger](https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=swagger)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
 
 ---
 
@@ -86,7 +88,7 @@ const talha = {
 - Transactions
 - Dashboard Analytics
 
-**Stack:** Node.js • Express.js • MongoDB • React
+**Tech:** Node.js • Express.js • MongoDB • React
 
 ---
 
@@ -97,7 +99,7 @@ const talha = {
 - Skill Listings
 - Reviews & Ratings
 
-**Stack:** Node.js • Express.js • MongoDB
+**Tech:** Node.js • Express.js • MongoDB
 
 ---
 
@@ -105,14 +107,20 @@ const talha = {
 
 - QR Authentication
 - Bulk Messaging
-- CSV Contacts
+- CSV Contact Import
 - REST APIs
+
+**Tech:** Node.js • Express.js • WhatsApp Web.js
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=talhacoder302&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talhacoder302&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=talhacoder302&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhacoder302&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -135,18 +143,18 @@ const talha = {
 
 # 🌐 Connect With Me
 
-🌍 Portfolio: https://talhacoder.com
+🌍 **Portfolio:** https://talhacoder.com
 
-💼 LinkedIn: https://linkedin.com/in/talha-coder/
+💼 **LinkedIn:** https://linkedin.com/in/talha-coder/
 
-📧 Email: talha.developments@gmail.com
+📧 **Email:** talha.developments@gmail.com
 
-🐙 GitHub: https://github.com/talhacoder302
+🐙 **GitHub:** https://github.com/talhacoder302
 
 ---
 
-# 💡 Quote
+# 💡 Favorite Quote
 
 > "First, solve the problem. Then, write the code."
 
-⭐ If you like my work, don't forget to star my repositories!
+⭐ **If you like my work, don't forget to star my repositories!**
