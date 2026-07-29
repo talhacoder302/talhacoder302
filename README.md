@@ -141,7 +141,7 @@ WhatsApp Automation
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 <img
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=talhacoder302&show_icons=true&theme=tokyonight&hide_border=true"
@@ -150,7 +150,7 @@ WhatsApp Automation
 
 </td>
 
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 <img
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=talhacoder302&layout=compact&theme=tokyonight&hide_border=true"
