@@ -2,7 +2,7 @@
 
 ### 🚀 Backend Developer | Node.js | Express.js | MongoDB | REST APIs
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=false&vCenter=true&width=450&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;REST+API+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=540&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;REST+API+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=talhacoder302&style=for-the-badge&color=blue)
 
