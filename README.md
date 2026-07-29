@@ -116,9 +116,21 @@ const talha = {
 
 # 📊 GitHub Analytics
 
+<table>
+<tr>
+<td width="50%">
+
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=talhacoder302&show_icons=true&theme=tokyonight&hide_border=true)
 
+</td>
+
+<td width="50%">
+
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=talhacoder302&layout=compact&theme=tokyonight&hide_border=true)
+
+</td>
+</tr>
+</table>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=talhacoder302&theme=tokyonight&hide_border=true)
 
