@@ -114,6 +114,12 @@ const talha = {
 
 ---
 
+# 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=talhacoder302&theme=tokyo-night)
+
+---
+
 # 📊 GitHub Analytics
 
 <table>
@@ -136,11 +142,6 @@ const talha = {
 
 ---
 
-# 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=talhacoder302&theme=tokyo-night)
-
----
 
 # 🌱 Currently Learning
 
