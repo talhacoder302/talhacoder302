@@ -1,201 +1,169 @@
-````markdown
-<div align="center">
-
-# 👨‍💻 Muhammad Talha
+# 👋 Hi, I'm Muhammad Talha
 
 ### 🚀 Backend Developer | Node.js | Express.js | MongoDB | REST APIs
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Muhammad+Talha;Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;REST+API+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+Express.js+%7C+MongoDB;REST+API+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies)
 
-<img src="https://komarev.com/ghpvc/?username=talhacoder302&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=talhacoder302&style=for-the-badge&color=blue)
 
 ---
 
-# 👋 About Me
+# 💫 About Me
 
 ```javascript
 const talha = {
-    name: "Muhammad Talha",
-    role: "Backend Developer",
-    location: "Pakistan",
-    company: "Techlets Pvt. Ltd.",
-    portfolio: "https://talhacoder.com",
+  role: "Backend Developer",
+  company: "Techlets Pvt. Ltd.",
+  location: "Pakistan",
 
-    techStack: [
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "React.js",
-        "JavaScript",
-        "REST APIs",
-        "JWT Authentication",
-        "Git",
-        "GitHub"
-    ],
+  backend: [
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "REST APIs",
+    "JWT"
+  ],
 
-    currentlyLearning: [
-        "System Design",
-        "Docker",
-        "AWS",
-        "Redis",
-        "TypeScript",
-        "Microservices"
-    ],
+  frontend: [
+    "React",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
 
-    motto: "Building scalable backend solutions with clean code."
-};
+  learning: [
+    "Docker",
+    "AWS",
+    "Redis",
+    "Microservices",
+    "TypeScript"
+  ],
+
+  motto: "Build Clean APIs. Build Scalable Systems."
+}
 ```
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
-### 🚀 Backend
+## Backend
 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
 
-### 🗄 Database
+## Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge)
 
-### 🎨 Frontend
+## Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
-### 🛠 Tools
+## Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-green?style=for-the-badge&logo=swagger)
 
 ---
 
-# 🚀 Featured Projects
+# 📌 Featured Projects
 
 ## 💰 FinLedger
-A complete Personal Finance Management System.
 
-- 🔐 JWT Authentication
-- 💳 Account Management
-- 💸 Income & Expense Tracking
-- 📊 Dashboard Analytics
-- 📈 Financial Reports
+- Personal Finance Management
+- JWT Authentication
+- Account Management
+- Transactions
+- Dashboard Analytics
 
-**Tech:** Node.js • Express.js • MongoDB • React
+**Stack:** Node.js • Express.js • MongoDB • React
 
 ---
 
 ## 🤝 SkillSwap Platform
 
-Peer-to-Peer Skill Exchange Platform.
+- Peer-to-Peer Skill Exchange
+- User Profiles
+- Skill Listings
+- Reviews & Ratings
 
-- 👤 User Profiles
-- 🎯 Skill Listings
-- ⭐ Reviews & Ratings
-- 🔄 Skill Requests
-
-**Tech:** Node.js • Express.js • MongoDB
+**Stack:** Node.js • Express.js • MongoDB
 
 ---
 
 ## 💬 WhatsApp Automation API
 
-- 📱 QR Authentication
-- 📨 Send Messages
-- 📂 CSV Contacts
-- 🔗 REST API
+- QR Authentication
+- Bulk Messaging
+- CSV Contacts
+- REST APIs
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=talhacoder302&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=talhacoder302&theme=tokyonight&hide_border=true"/>
-</p>
+![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=talhacoder302&show_icons=true&theme=tokyonight)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhacoder302&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=talhacoder302&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhacoder302&layout=compact&theme=tokyonight)
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=talhacoder302&theme=tokyonight&no-frame=true&column=7"/>
-</p>
+![Trophies](https://github-profile-trophy.vercel.app/?username=talhacoder302&theme=tokyonight&no-frame=true)
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=talhacoder302&theme=tokyo-night&hide_border=true"/>
-</p>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=talhacoder302&theme=tokyo-night)
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://github.com/talhacoder302/talhacoder302/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
+> **Requires GitHub Actions**
 
-> **⚠️ Note:** Snake animation tab chalegi jab GitHub Actions setup karoge (workflow add karna hota hai).
+![Snake animation](https://github.com/talhacoder302/talhacoder302/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-# 🎯 Current Goals
+# 🌱 Currently Learning
 
-- 🚀 Master System Design
-- ☁️ AWS Cloud
-- 🐳 Docker
-- ⚡ Microservices
-- 🔥 Redis
-- 🤖 AI Powered Applications
+- Docker
+- AWS
+- Redis
+- Microservices
+- TypeScript
+- System Design
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+🌍 Portfolio: https://talhacoder.com
 
-<a href="https://talhacoder.com">
-<img src="https://img.shields.io/badge/🌍%20Portfolio-Visit-blue?style=for-the-badge"/>
-</a>
+💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
 
-<a href="https://github.com/talhacoder302">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
+📧 Email: your@email.com
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+🐙 GitHub: https://github.com/talhacoder302
 
 ---
 
-<div align="center">
+# 💡 Quote
 
-### ⭐ Thanks for visiting my profile!
+> "First, solve the problem. Then, write the code."
 
-### 💙 Code • Learn • Build • Repeat
-
-</div>
-````
+⭐ If you like my work, don't forget to star my repositories!
