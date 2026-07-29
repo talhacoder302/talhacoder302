@@ -80,37 +80,54 @@ const talha = {
 
 # 📌 Featured Projects
 
-## 💰 FinLedger
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- Personal Finance Management
-- JWT Authentication
-- Account Management
-- Transactions
-- Dashboard Analytics
+### 💰 FinLedger
+
+Personal Finance Management System
+
+- 🔐 JWT Authentication
+- 💳 Account Management
+- 💸 Transactions
+- 📊 Dashboard Analytics
 
 **Tech:** Node.js • Express.js • MongoDB • React
 
----
+</td>
 
-## 🤝 SkillSwap Platform
+<td width="33%" valign="top">
 
-- Peer-to-Peer Skill Exchange
-- User Profiles
-- Skill Listings
-- Reviews & Ratings
+### 🤝 SkillSwap
+
+Peer-to-Peer Skill Exchange
+
+- 👤 User Profiles
+- 🛠️ Skill Listings
+- ⭐ Reviews & Ratings
+- 🤝 Skill Matching
 
 **Tech:** Node.js • Express.js • MongoDB
 
----
+</td>
 
-## 💬 WhatsApp Automation API
+<td width="33%" valign="top">
 
-- QR Authentication
-- Bulk Messaging
-- CSV Contact Import
-- REST APIs
+### 💬 WhatsApp API
+
+WhatsApp Automation
+
+- 📱 QR Authentication
+- 📨 Bulk Messaging
+- 📄 CSV Contact Import
+- 🔗 REST APIs
 
 **Tech:** Node.js • Express.js • WhatsApp Web.js
+
+</td>
+</tr>
+</table>
 
 ---
 
