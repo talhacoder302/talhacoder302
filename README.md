@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0B0B0B,60:0B1A1C,100:004E54&height=300&section=header&text=Muhammad%20Talha&fontSize=56&fontColor=00F5FF&fontAlignY=30&desc=Full%20Stack%20Backand%20Developer&descSize=20&descAlignY=50&animation=fadeIn" width="100%" alt="Muhammad Talha" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0B0B0B,60:0B1A1C,100:004E54&height=300&section=header&text=Muhammad%20Talha&fontSize=56&fontColor=00F5FF&fontAlignY=30&desc=Full%20Stack%20Backend%20Developer&descSize=20&descAlignY=50&animation=fadeIn" width="100%" alt="Muhammad Talha" />
 </p>
 
 <p align="center">
-  <b>MongoDB | Express.js | React.js | Node.js | Scalable Backend | REST APIs</b>
+  <b>MongoDB | Express.js | Next.js | React.js | Node.js | Scalable Backend | REST APIs</b>
 </p>
 
 <p align="center">
@@ -249,5 +249,5 @@ Management system for organizing students, groups & activities.
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:004E54,40:0B1A1C,100:0B0B0B&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:004E54,40:0B1A1C,100:0B0B0B&height=340&section=footer" width="100%" alt="footer" />
 </p>
